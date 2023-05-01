@@ -4,7 +4,7 @@ import './style.css'
 // import { studentC, students } from "./bases/02-objects"
 // import { onePiece } from './bases/03-classes'
 // import { squirtle } from './bases/04-injections'
-import { squirtle } from './bases/05-decorators'
+import { squirtle } from './bases/06-decorators2'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
